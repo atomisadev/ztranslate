@@ -35,3 +35,74 @@ That was a mouthful.
 The source code is written in a Jupyter Notebook. The best way to run the code would be to clone the repository locally and use your favorite IDE to run the notebook. Alternatively, you can manually copy and paste the code into a Python file and run it (although this isn't highly recommended).
 
 If you don't want to run it locally, you can whip up something like Codespaces that has a built-in browser JupyterLab. Otherwise, you can use [Google Colaboratory](//colab.research.google.com/) and import from GitHub.
+
+## Manual dataset
+Now you're probably wondering - did I actually take the time to write out each value inside a Markdown table. Well, if you did, I'm flattered because you think I have that much patience and commitment. I wrote a simple Python script that takes the variable values and maps it into a Markdown table found inside `markdown.py`. I'm a programmer, come on.
+
+| Phrase | Sentiment |
+| --- | --- |
+| boujee af | Positive |
+| on fleek | Positive |
+| goals | Positive |
+| on point | Positive |
+| fire | Positive |
+| yasss | Positive |
+| lit fam | Positive |
+| bae | Positive |
+| slay | Positive |
+| queen | Positive |
+| king | Positive |
+| go hard | Positive |
+| boss | Positive |
+| badass | Positive |
+| epic | Positive |
+| legendary | Positive |
+| fierce | Positive |
+| dope | Positive |
+| sick | Positive |
+| crushin' it | Positive |
+| stunner | Positive |
+| power move | Positive |
+| jaw-dropping | Positive |
+| mind-blowing | Positive |
+| out of this world | Positive |
+| smooth operator | Positive |
+| game-changer | Positive |
+| genius | Positive |
+| prodigy | Positive |
+| phenomenal | Positive |
+| majestic | Positive |
+| divine | Positive |
+| goddess | Positive |
+| godlike | Positive |
+| trendsetter | Positive |
+| innovator | Positive |
+| disruptor | Positive |
+| influencer | Positive |
+| pioneer | Positive |
+| trailblazer | Positive |
+| frontrunner | Positive |
+| visionary | Positive |
+| icon | Positive |
+| superstar | Positive |
+| guru | Positive |
+| maestro | Positive |
+| expert | Positive |
+| ace | Positive |
+| champion | Positive |
+| winner | Positive |
+| trash af | Negative |
+| wack af | Negative |
+| dead af | Negative |
+| lame | Negative |
+| boring | Negative |
+| weak | Negative |
+| lousy | Negative |
+| useless | Negative |
+| inferior | Negative |
+| disappointing | Negative |
+| lacking | Negative |
+| mediocre | Negative |
+| subpar | Negative |
+| second-rate | Negative |
+| unsatisfactory | Negative |
