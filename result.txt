@@ -1,67 +1,67 @@
-| Phrase | Sentiment |
-| --- | --- |
-| boujee af | Positive |
-| on fleek | Positive |
-| goals | Positive |
-| on point | Positive |
-| fire | Positive |
-| yasss | Positive |
-| lit fam | Positive |
-| bae | Positive |
-| slay | Positive |
-| queen | Positive |
-| king | Positive |
-| go hard | Positive |
-| boss | Positive |
-| badass | Positive |
-| epic | Positive |
-| legendary | Positive |
-| fierce | Positive |
-| dope | Positive |
-| sick | Positive |
-| crushin' it | Positive |
-| stunner | Positive |
-| power move | Positive |
-| jaw-dropping | Positive |
-| mind-blowing | Positive |
-| out of this world | Positive |
-| smooth operator | Positive |
-| game-changer | Positive |
-| genius | Positive |
-| prodigy | Positive |
-| phenomenal | Positive |
-| majestic | Positive |
-| divine | Positive |
-| goddess | Positive |
-| godlike | Positive |
-| trendsetter | Positive |
-| innovator | Positive |
-| disruptor | Positive |
-| influencer | Positive |
-| pioneer | Positive |
-| trailblazer | Positive |
-| frontrunner | Positive |
-| visionary | Positive |
-| icon | Positive |
-| superstar | Positive |
-| guru | Positive |
-| maestro | Positive |
-| expert | Positive |
-| ace | Positive |
-| champion | Positive |
-| winner | Positive |
-| trash af | Negative |
-| wack af | Negative |
-| dead af | Negative |
-| lame | Negative |
-| boring | Negative |
-| weak | Negative |
-| lousy | Negative |
-| useless | Negative |
-| inferior | Negative |
-| disappointing | Negative |
-| lacking | Negative |
-| mediocre | Negative |
-| subpar | Negative |
-| second-rate | Negative |
-| unsatisfactory | Negative |
+Number | Phrase | Sentiment
+--- | --- | ---
+1. | boujee af | Positive
+2. | on fleek | Positive
+3. | goals | Positive
+4. | on point | Positive
+5. | fire | Positive
+6. | yasss | Positive
+7. | lit fam | Positive
+8. | bae | Positive
+9. | slay | Positive
+10. | queen | Positive
+11. | king | Positive
+12. | go hard | Positive
+13. | boss | Positive
+14. | badass | Positive
+15. | epic | Positive
+16. | legendary | Positive
+17. | fierce | Positive
+18. | dope | Positive
+19. | sick | Positive
+20. | crushin' it | Positive
+21. | stunner | Positive
+22. | power move | Positive
+23. | jaw-dropping | Positive
+24. | mind-blowing | Positive
+25. | out of this world | Positive
+26. | smooth operator | Positive
+27. | game-changer | Positive
+28. | genius | Positive
+29. | prodigy | Positive
+30. | phenomenal | Positive
+31. | majestic | Positive
+32. | divine | Positive
+33. | goddess | Positive
+34. | godlike | Positive
+35. | trendsetter | Positive
+36. | innovator | Positive
+37. | disruptor | Positive
+38. | influencer | Positive
+39. | pioneer | Positive
+40. | trailblazer | Positive
+41. | frontrunner | Positive
+42. | visionary | Positive
+43. | icon | Positive
+44. | superstar | Positive
+45. | guru | Positive
+46. | maestro | Positive
+47. | expert | Positive
+48. | ace | Positive
+49. | champion | Positive
+50. | winner | Positive
+51. | trash af | Negative
+52. | wack af | Negative
+53. | dead af | Negative
+54. | lame | Negative
+55. | boring | Negative
+56. | weak | Negative
+57. | lousy | Negative
+58. | useless | Negative
+59. | inferior | Negative
+60. | disappointing | Negative
+61. | lacking | Negative
+62. | mediocre | Negative
+63. | subpar | Negative
+64. | second-rate | Negative
+65. | unsatisfactory | Negative

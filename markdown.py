@@ -66,12 +66,10 @@ gen_z_phrases = [
     ('unsatisfactory', 0),
     ]
 
-table = '| Phrase | Sentiment |\n| --- | --- |\n'
-for phrase, label in gen_z_phrases:
-    sentiment = 'Positive' if label else 'Negative'
-    table += f'| {phrase} | {sentiment} |\n'
+table = "Number | Phrase | Sentiment\n"
+table += "--- | --- | ---\n"
+for i, (phrase, sentiment) in enumerate(gen_z_phrases):
+    table += f"{i+1}. | {phrase} | {'Positive' if sentiment == 1 else 'Negative'}\n"
 
 with open("result.txt", "w") as f:
     f.write(table)
-
-print("Check result.txt")
