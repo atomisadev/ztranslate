@@ -28,7 +28,7 @@ To achieve this:
   
 That was a mouthful.
 
-> **Note**: Looking at the code again, the ChatGPT-generated training data contains stuff that no one actually says. If you find any of this, don't hesitate to create a pull request to rectify this. Also, if you want to input your own test data, be my guest.
+> **Note**: Looking at the code again, the ChatGPT-generated training data contains stuff that no one actually says. If you find any of this, don't hesitate to create a pull request to rectify this. Also, if you want to input your own test data, be my guest. Completely unrelated, but if you actually say "boujee af," I'm sorry, you cannot call yourself Gen Z.
 
 ## How can I run it?
 
