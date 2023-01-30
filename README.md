@@ -4,6 +4,8 @@ This is a personal project inspired by [@jD2R](https://github.com/jD2R) that did
 
 ## Well, how does it work?
 
+> **Note**: On the current release, the program doesn't quite yet fully translate phrases. It only determines if the repsonse is positive or negative. The AI is still actively being trained with new data to translate it.
+
 What a great question! This isn't anything too complicated, and anyone with a basic understanding of TensorFlow and Keras should understand how this works. I'm going to get pretty professional and well-worded, so prepare yourself.
 
 Well, this is an implementation of a sentiment analysis algorithm that utilizes the TensorFlow library. The primary purpose of this algorithm is to perform sentiment classification on a set of linguistic expressions, specifically slang phrases commonly used by the Gen Z demographic.
