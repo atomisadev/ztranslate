@@ -28,6 +28,8 @@ To achieve this:
   
 That was a mouthful.
 
+> **Note**: Looking at the code again, the ChatGPT-generated training data contains stuff that no one actually says. If you find any of this, don't hesitate to create a pull request to rectify this. Also, if you want to input your own test data, be my guest.
+
 ## How can I run it?
 
 The source code is written in a Jupyter Notebook. The best way to run the code would be to clone the repository locally and use your favorite IDE to run the notebook. Alternatively, you can manually copy and paste the code into a Python file and run it (although this isn't highly recommended).
